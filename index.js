@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Наблюда., как вы играете в WarFrame."];
 
 
 let currentIndex = 0;
