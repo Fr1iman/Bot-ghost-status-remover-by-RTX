@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dicord.gg/ValoVault"];
+const statusMessages = ["Наблюдаю, как вы играете в WarFrame"];
 
 
 let currentIndex = 0;
