@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Играю в Warframe","Торгую Модами Разлома на маркете"];
+const statusMessages = ["Играю в Warframe"];
 
 
 let currentIndex = 0;
